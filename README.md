@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Christof Schramm, a Software Engineer specializing in web applications and FP.
+
+My interests are (in no particular order)
+- ⚙️ Programming languages and their implementation
+- 🚀 Performance optimization of systems both large and small
+- 🔍 Efficient algorithms and their impementation
+
+You can find out more about me on [my website christof-schramm.net](https://christof-schramm.net)
 <!--
 **schrammc/schrammc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
