@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Christof Schramm, a Software Engineer specializing in web applications and FP.
+I'm Christof Schramm, a Software Engineer at [Tacto](https://tacto.ai) specializing in web applications and FP.
 
 My interests are (in no particular order)
 - ⚙️ Programming languages and their implementation
